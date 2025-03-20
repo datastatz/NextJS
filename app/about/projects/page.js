@@ -8,7 +8,7 @@ export default async function ProjectsPage() {
 
 
     return (
-    <div className="p-20">
+    <div>
     
     <h1 className="mb-8 text-xl">Posts</h1>
     

@@ -32,7 +32,7 @@ export default function Home() {
 
   return (
    <>
-   <ul className="p-20 space-y-4">
+   <ul className="space-y-4">
  
    <li>{name}</li>
       
